@@ -742,3 +742,7 @@ img.graph {
     color: #ff8c38;
     margin-right: 5px;
 }
+
+.password-hint {
+    margin: 0.25em
+}
